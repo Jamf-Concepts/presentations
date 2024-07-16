@@ -2,7 +2,7 @@
 Repo for links from the JNUC 2021 talk "Managing iPads, for the Mac Admin"
 
 ## Slides
-- [Slides](https://github.com/dataJAR/JNUC2021-Managing-iPads-for-the-Mac-Admin/raw/main/Managing%20iPads%2C%20for%20the%20Mac%20Admin.pdf)
+- [Slides](https://github.com/Jamf-Concepts/presentations/JNUC2021-Managing-iPads-for-the-Mac-Admin/raw/main/Managing%20iPads%2C%20for%20the%20Mac%20Admin.pdf)
 
 ## Video
 - [Video](https://youtu.be/EM0Mwo2R-hc)
