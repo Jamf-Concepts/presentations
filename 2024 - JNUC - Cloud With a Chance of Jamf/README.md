@@ -32,3 +32,6 @@ Links from our JNUC 2024 talk "Cloud With a Chance of Jamf".
 - [Thinking big: scaling JSS infrastructures for the mobile workforce](https://macmule.com/2014/10/24/thinking-big-scaling-jss-infrastructures-for-the-mobile-workforce/)
 - [Permitting Inbound/Outbound Traffic with Jamf Cloud](https://learn.jamf.com/en-US/bundle/technical-articles/page/Permitting_InboundOutbound_Traffic_with_Jamf_Cloud.html)
 - [The old switcheroo: macOS MDM Migrations](https://www.youtube.com/watch?v=bpvbRieS3DU)
+
+## Recap
+- [Jamf Migrator](https://github.com/jamf/JamfMigrator)
