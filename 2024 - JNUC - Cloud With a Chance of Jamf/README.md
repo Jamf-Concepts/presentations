@@ -1,6 +1,6 @@
 # JNUC 2024 - Cloud With a Chance of Jamf
 
-Links from our JNUC 2024 talk "Cloud With a Chance of Jamf".
+Links from Ben Toms's JNUC 2024 talk "Cloud With a Chance of Jamf".
 
 # History
 - [JNUC 2019 - datajar.mobi: A story of Jamf and…](https://macmule.com/2020/01/05/datajar-mobi-a-story-of-jamf-and/)
