@@ -31,11 +31,7 @@ Links from Ben Toms's JNUC 2024 talk "Cloud With a Chance of Jamf".
 ## Data residency and networking
 - [Thinking big: scaling JSS infrastructures for the mobile workforce](https://macmule.com/2014/10/24/thinking-big-scaling-jss-infrastructures-for-the-mobile-workforce/)
 - [Permitting Inbound/Outbound Traffic with Jamf Cloud](https://learn.jamf.com/en-US/bundle/technical-articles/page/Permitting_InboundOutbound_Traffic_with_Jamf_Cloud.html)
-
-## Jamf Migrate
 - [The old switcheroo: macOS MDM Migrations](https://www.youtube.com/watch?v=bpvbRieS3DU)
-- [Jamf Migrate: Device Migration without Erasing](https://www.jamf.com/events/webinars/jamf-migrate-device-migration-without-erasing/)
-- [Jamf iOS Migrate: Because Who Doesn't Love Tedious Device Migration Tasks?](https://reg.jnuc.jamf.com/flow/jamf/jnuc2024/sessioncatalog2024/page/sessioncatalog/session/1712078062326001qKiP)
 
 ## Recap
 - [Jamf Migrator](https://github.com/jamf/JamfMigrator)
